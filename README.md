@@ -100,6 +100,7 @@ contract MyToken {
 ## Authors
 
 ex. Jan Vricks Vicencio
+
 gmail. 8210348@ntc.edu.ph
 
 
